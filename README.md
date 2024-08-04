@@ -1,1 +1,18 @@
-# apuntes 
+# Class notes
+
+ - Here I can see all class notes of Jobish's class.
+ - One interesting thing I noted is that, there is a number and topic name in name of each file.
+     - The number corresponds to the class number
+         - For instance, '032_pivot_table.ipynb' this file name tells me that, this the second file we will discuss in the class 3 (032).  
+     - Obviously, the second part briefs the main idea of the class.
+         - For instance, '032_pivot_table.ipynb' this file name tells me that, we will see pivot table implimentation using python in this class.
+  - Also, I see that there are many files in a same day.
+    - For instance, 
+        - 030_limpieza.ipynb
+        - 031_Missing_Values.ipynb
+        - 032_pivot_table.ipynb
+        - 033_PivotTables.ipynb
+        - 034_lambda_pivot_table.ipynb
+          May be Jobish could not explain everything in a single class 3 itself. In those cases, I will read and stuy alone myself the remaining part myself alone. Obviously, the corresponding activities of that day can have questions from any of those files. So, better I have to  read and practice before doing the activity 3 of the class 3.
+  - This extra notes should help me in my final presentation, may be I should be thanking Jobish for this, but it is not necessary, since it is part of his duty!
+  - Better I should make most out of it. Lets rush to the fist jupyter-notebook. 
