@@ -13,6 +13,9 @@
         - 032_pivot_table.ipynb
         - 033_PivotTables.ipynb
         - 034_lambda_pivot_table.ipynb
-          May be Jobish could not explain everything in a single class 3 itself. In those cases, I will read and stuy alone myself the remaining part myself alone. Obviously, the corresponding activities of that day can have questions from any of those files. So, better I have to  read and practice before doing the activity 3 of the class 3.
+           - May be Jobish could not explain everything in a single class 3 itself.
+              - In those cases, I will read and stuy alone myself the remaining part myself alone.
+              - Obviously, the corresponding activities of that day can have questions from any of those files.
+                    - So, better I have to  read and practice before doing the activity 3 of the class 3.
   - This extra notes should help me in my final presentation, may be I should be thanking Jobish for this, but it is not necessary, since it is part of his duty!
   - Better I should make most out of it. Lets rush to the fist jupyter-notebook. 
