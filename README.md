@@ -1,8 +1,8 @@
 # Class notes
 
  - Here I can see all class notes of Jobish's class.
- - One interesting thing I noted is that, there is a number and topic name in name of each file.
-     - The number corresponds to the class number
+ - One interesting thing I noted is that, there is a $number$ and $topic\ name$ in name of each file.
+     - The $number$ corresponds to the class number
          - For instance, '032_pivot_table.ipynb' this file name tells me that, this the second file we will discuss in the class 3 (032).  
      - Obviously, the second part briefs the main idea of the class.
          - For instance, '032_pivot_table.ipynb' this file name tells me that, we will see pivot table implimentation using python in this class.
